@@ -1,9 +1,9 @@
 # Web Parsing - Mini Project
-###### Description
+## Description
 
 This project contains data from alta.ge by parsing with python (bs4). 
 
-###### Used Python Modules
+## Used Python Modules
 * bs4 
 * requests
 * csv
