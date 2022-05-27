@@ -32,5 +32,6 @@ while page_numb < 10:
         print(price)
         file_object.writerow([title, price, image_url])
 
-    sleep(randint(15, 20))
     page_numb += 1
+    sleep(randint(15, 20))
+
